@@ -1,3 +1,4 @@
 {
-"ghcr.io/devcontainers/features/nix:1": {}
+"name": "wally-package-types",
+  "image": "ghcr.io/zombiezen/codespaces-nix"
 }
